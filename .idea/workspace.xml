@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e9514a5-d991-428a-8898-2741407545a4" name="Default Changelist" comment="" />
+    <list default="true" id="9e9514a5-d991-428a-8898-2741407545a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/footer.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/footer.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="60" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="60" />
+            <state relative-caret-position="154">
+              <caret line="7" column="65" lean-forward="true" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -67,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/blog/utils/DBUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
-              <caret line="34" column="43" lean-forward="true" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -102,6 +105,9 @@
       <find>selected</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -127,9 +133,9 @@
         <option value="$PROJECT_DIR$/src/com/blog/dao/impl/PostImpl.java" />
         <option value="$PROJECT_DIR$/src/com/blog/controller/PostServlet.java" />
         <option value="$PROJECT_DIR$/web/category.jsp" />
-        <option value="$PROJECT_DIR$/web/footer.jsp" />
         <option value="$PROJECT_DIR$/web/slider.jsp" />
         <option value="$PROJECT_DIR$/src/com/blog/utils/DBUtils.java" />
+        <option value="$PROJECT_DIR$/web/footer.jsp" />
       </list>
     </option>
   </component>
@@ -141,8 +147,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="653" />
-    <option name="y" value="140" />
+    <option name="x" value="265" />
+    <option name="y" value="38" />
     <option name="width" value="1640" />
     <option name="height" value="930" />
   </component>
@@ -152,7 +158,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,6 +227,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -424,17 +430,18 @@
       <workItem from="1550390185557" duration="859000" />
       <workItem from="1550391397469" duration="799000" />
       <workItem from="1550399605584" duration="42000" />
+      <workItem from="1550415705951" duration="177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111028000" />
+    <option name="totallyTimeSpent" value="111205000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="653" y="140" width="1640" height="930" extended-state="0" />
+    <frame x="265" y="38" width="1640" height="930" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4909091" visible="true" weight="0.28723404" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4909091" visible="true" weight="0.29098874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -678,6 +685,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/blog/dao/impl/CategoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/blog/dao/impl/PostImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2970">
@@ -695,13 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="60" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/slider.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1540">
@@ -716,20 +726,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/blog/dao/impl/CategoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/blog/utils/DBUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
-          <caret line="34" column="43" lean-forward="true" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="65" lean-forward="true" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
         </state>
       </provider>
     </entry>
