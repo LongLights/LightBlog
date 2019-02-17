@@ -23,3 +23,8 @@ LightBlog是由本人原创编写的一套基于jsp/Servlet的博客程序，本
 2.表“layout_settings”中，index_announcement字段填写的数字为“公告”分类的id，该分类最新发布的5篇文章将显示在首页的侧栏“网站公告”中
 3.表“posts”存储网站内的所有文章，其中有一个字段“is_rec”，默认值为0，如果将某一篇文章的该字段设置为1，则该文章将会显示在首页的“精选文章中”。
 ![82D7BCD2-1DF3-4DCF-B52B-B2A3265B3DD0.jpeg](https://i.loli.net/2019/02/17/5c6972a837f46.jpeg)
+
+## 补充说明
+本博客程序前端模板来自杨青青编写的帝国CMS主题《今夕何夕》[https://www.yangqq.com/download/div/917.html](https://www.yangqq.com/download/div/917.html)，模板由本人向杨青青购买所得。
+
+除前端部分以外，所有代码均是原创。
