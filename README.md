@@ -1,4 +1,5 @@
 # LightBlog安装及使用说明
+LightBlog是由本人原创编写的一套基于jsp/Servlet的博客程序，本程序演示站点[https://me.ugediao.com](https://me.ugediao.com)
 ## 安装说明
 ### 环境配置
 1.服务器环境建议使用宝塔面板，宝塔面板中安装nginx、tomcat（建议安装tomcat8或9）、、mysql、phpmyadmin。
