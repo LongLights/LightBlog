@@ -1,5 +1,5 @@
 # LightBlog安装及使用说明
-LightBlog是由本人原创编写的一套基于jsp/Servlet的博客程序，本程序演示站点[https://me.ugediao.com](https://me.ugediao.com)
+LightBlog是由本人原创编写的一套基于jsp/Servlet的博客程序，本程序演示站点[https://me.ugediao.com](https://me.ugediao.com)（演示站点已失效，现在该站点为hexo）
 ## 安装说明
 
 
