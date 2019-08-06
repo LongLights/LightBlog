@@ -4,7 +4,7 @@ LightBlog是由本人原创编写的一套基于jsp/Servlet的博客程序，本
 
 
 ### 环境配置
-1.服务器环境建议使用宝塔面板，宝塔面板中安装nginx、tomcat（建议安装tomcat8或9）、、mysql、phpmyadmin。
+1.服务器环境建议使用宝塔面板，宝塔面板中安装nginx、tomcat（建议安装tomcat8或9）、mysql、phpmyadmin。
 
 2.在宝塔面板的“安全”中，放行8080端口。
 
@@ -39,6 +39,5 @@ LightBlog是由本人原创编写的一套基于jsp/Servlet的博客程序，本
 ![82D7BCD2-1DF3-4DCF-B52B-B2A3265B3DD0.jpeg](https://i.loli.net/2019/02/17/5c6972a837f46.jpeg)
 
 ## 补充说明
-本博客程序前端模板来自杨青青编写的帝国CMS主题《今夕何夕》[https://www.yangqq.com/download/div/917.html](https://www.yangqq.com/download/div/917.html)，模板由本人向杨青青购买所得。
-
-除前端部分以外，所有代码均是原创。
+1.本博客程序前端模板来自杨青青编写的帝国CMS主题《今夕何夕》[https://www.yangqq.com/download/div/917.html](https://www.yangqq.com/download/div/917.html)，模板由本人向杨青青购买所得。
+2.本程序尚未编写后台部分，即文章编辑器等功能。
